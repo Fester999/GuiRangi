@@ -1,0 +1,8 @@
+name: Custom_Items
+author: Fester999
+version: 1.0
+main: me.fester999.yt.Main
+
+commands:
+ pomoc:
+ rangi:
